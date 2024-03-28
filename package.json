@@ -1,0 +1,25 @@
+{
+  "name": "cumquebeatae",
+  "version": "1.0.0",
+  "description": "A tool to select a faster web3 rpc server in wanchain.",
+  "main": "./lib/index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/KittyOrn/cumquebeatae.git"
+  },
+  "author": "AaronVon",
+  "license": "MIT",
+  "devDependencies": {
+    "@babel/cli": "^7.10.4",
+    "@babel/core": "^7.10.4",
+    "@babel/node": "^7.10.4",
+    "@babel/preset-env": "^7.10.4",
+    "@babel/preset-react": "^7.10.4",
+    "@babel/register": "^7.10.4",
+    "core-js": "^3.6.5"
+  },
+  "dependencies": {
+    "regenerator-runtime": "^0.13.5",
+    "web3": "^1.2.9"
+  }
+}
